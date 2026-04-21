@@ -1,0 +1,7 @@
+{
+  "name": "RestoMaster - Hệ thống Quản lý Nhà hàng",
+  "description": "Giải pháp quản lý nhà hàng toàn diện: Quản lý bàn, thực đơn, gọi món và báo cáo doanh thu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
